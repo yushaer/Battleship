@@ -7,7 +7,7 @@ A Console based 2  player battleship
 
 ---
 ### Requirements 
- node.js - version 4.15.4
+ node.js - version 14.15.4
 
  ### Running
  With node installed type `npm start` in CMD/Terminal to start the game
